@@ -44,7 +44,7 @@ layerSwitcher.showPanel();
     });
 
     map.addControl(searchLayer);
-map.getView().fit([12341803.277068, -922783.410204, 12378738.143716, -903440.313789], map.getSize());
+map.getView().fit([12345319.318644, -922384.955379, 12378946.258326, -903042.030715], map.getSize());
 
 var NO_POPUP = 0
 var ALL_FIELDS = 1
